@@ -9,13 +9,13 @@ const data = [
 			"For the person with an endless to-do list, Helper is your productivity partner. Offload tasks you don't have time for and find reliable assistance without the hassle of vetting strangers.",
 	},
 	{
-		header: 'The Skilled Professional',
+		header: 'The freelancer',
 		subHeader: 'Monetize Your Skills',
 		content:
 			'For freelancers, tradespeople, and experts, Helper is your launchpad. Access a steady stream of clients and build your reputation based on the quality of your work, not your marketing budget.',
 	},
 	{
-		header: 'The Community Builder',
+		header: 'The Community',
 		subHeader: 'Building a Fairer Eco-system',
 		content:
 			'When barriers to work are removed, the whole community thrives. We empower local economies and digital nomads alike by facilitating honest work and fair pay for everyone involved.',

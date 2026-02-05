@@ -12,7 +12,7 @@ const AudienceCard = ({ header, subHeader, content }: audienceCardProps) => {
 			<div className='w-full flex items-center px-7 py-6'>
 				<div className='bg-linear-118 from-[#E6FFF7FF] to-[#FFFFFF] rounded-full size-24'></div>
 			</div>
-			<div className='px-8 py-6 grid grid-cols-1 gap-3'>
+			<div className='px-4 lg:px-8 py-6 grid grid-cols-1 gap-3'>
 				<div className='w-full flex items-center'>
 					<h1 className='text-[20px] lg:text-[24px] leading-8 font-semibold'>
 						{header}

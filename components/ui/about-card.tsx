@@ -9,7 +9,7 @@ interface aboutCarfdProps {
 
 const AboutCard = ({ icon, header, content }: aboutCarfdProps) => {
 	return (
-		<div className='px-7 py-6 bg-[#ffff] rounded-md shadow grid grid-cols-1 gap-6'>
+		<div className='px-4 lg:px-7 py-6 bg-[#ffff] rounded-md shadow grid grid-cols-1 gap-6'>
 			<div className='w-full flex justify-center items-center'>
 				<div className='size-16 rounded-full bg-[#00C3891A] flex justify-center items-center'>
 					{icon}

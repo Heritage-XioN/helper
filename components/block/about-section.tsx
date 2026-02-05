@@ -37,7 +37,7 @@ const AboutSection = () => {
 					</p>
 				</div>
 			</div>
-			<div className='grid grid-cols-1 md:grid-cols-3 gap-8'>
+			<div className='grid grid-cols-1 md:grid-cols-3 gap-4 lg:gap-8'>
 				{data.map((items) => (
 					<AboutCard key={items.header} {...items} />
 				))}
