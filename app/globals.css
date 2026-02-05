@@ -26,4 +26,5 @@ body {
 
 * {
 	font-family: 'Comic Sans MS', 'Comic Sans', cursive, sans-serif;
+	scrollbar-width: none;
 }
