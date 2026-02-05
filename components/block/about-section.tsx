@@ -1,16 +1,16 @@
 import React from 'react';
 import AboutCard from '../ui/about-card';
-import { Handshake } from 'lucide-react';
+import { Code, Earth, Handshake } from 'lucide-react';
 
 const data = [
 	{
-		icon: <Handshake className='size-8 text-[#00C389FF]' />,
+		icon: <Earth className='size-8 text-[#00C389FF]' />,
 		header: 'Beyond Boundaries',
 		content:
 			"We don't limit help to just one category. we cover situations from complex digital coding projects to hands-on home repairs, Helper a single accessible marketplace.",
 	},
 	{
-		icon: <Handshake className='size-8 text-[#00C389FF]' />,
+		icon: <Code className='size-8 text-[#00C389FF]' />,
 		header: 'Merit Over Network',
 		content:
 			"We believe finding work shouldn't depend on having the right connections. We level the playing field so that skills speak louder than status, giving everyone an equal shot at success.",
