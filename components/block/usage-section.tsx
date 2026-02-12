@@ -12,7 +12,7 @@ const data = [
 		step: '2',
 		header: 'Connect & Match',
 		content:
-			'Review proposals or browse talent based on ratings, skills, and price. Chat directly to ensure you’re on the same page before any work begins—no middleman delays.',
+			'Review proposals or browse talent based on ratings, skills, and price. Chat directly to ensure you’re on the same page before any work begins, no middleman delays.',
 	},
 	{
 		step: '3',
@@ -28,7 +28,7 @@ const UsageSection = () => {
 			<div className='flex justify-center items-center mb-8'>
 				<div className='text-center'>
 					<h1 className='text-[25px] leading-10 font-extrabold'>
-						How Helper Works in 3 Simple Steps
+						How Helpa Works in 3 Simple Steps
 					</h1>
 					<p className='text-[16px] leading-7 font-normal text-[#565D6DFF]'>
 						Getting started with Helper is intuitive and straightforward. Here's

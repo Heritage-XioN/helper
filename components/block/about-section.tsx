@@ -29,7 +29,7 @@ const AboutSection = () => {
 			<div className='flex justify-center items-center mb-8'>
 				<div className='text-center'>
 					<h1 className='text-[25px] leading-10 font-extrabold'>
-						What Helper Is All About
+						What Helpa Is All About
 					</h1>
 					<p className='text-[16px] leading-7 font-normal text-[#565D6DFF]'>
 						We're building a platform that simplifies giving and receiving help,
